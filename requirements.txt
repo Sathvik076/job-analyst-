@@ -1,0 +1,19 @@
+# System Requirements
+Node.js >= 18.0.0
+npm >= 9.0.0
+
+# Backend Dependencies (Express API)
+express
+cors
+multer
+dotenv
+groq-sdk
+mammoth
+pdf-parse
+@google/generative-ai
+
+# Frontend Dependencies (React UI)
+react
+react-dom
+recharts
+vite
